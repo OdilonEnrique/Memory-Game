@@ -23,7 +23,7 @@ textarea {
 }
 
 body {
-  background: url(../images/wallpaper-animes.jpg);
+  background: url(../images/wallpaper-animes-1.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -31,7 +31,7 @@ body {
 
 .container {
   height: 100vh;
-  background: #000b;
+  background: #000c;
   padding: 0 3.2rem;
 }
 
