@@ -44,7 +44,7 @@ a {
   color: black;
 }
 
-.backButton {
+.backButton:hover {
   cursor: pointer;
   text-decoration: underline;
 }
