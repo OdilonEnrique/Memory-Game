@@ -143,8 +143,6 @@ const timer = document.querySelector(".timer");
 const storagePlayerName = localStorage.getItem("@memmoryGame:player_name");
 playerName.innerHTML = storagePlayerName;
 
-console.log(playerName.innerHTML);
-
 backButton.addEventListener("click", backPage);
 
 createCards();
