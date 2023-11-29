@@ -55,7 +55,7 @@ function createCards() {
 
 function checkGameWin() {
   const disableCard = document.querySelectorAll(".disableCard");
-  if (disableCard.length === 2) {
+  if (disableCard.length === 24) {
     clearInterval(finishTimerInterval);
 
     const userData = {
