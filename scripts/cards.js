@@ -82,6 +82,8 @@ function checkGameWin() {
     alert(
       `Parabéns ${storagePlayerName}, você venceu com um tempo de ${timer.innerHTML}!`
     );
+
+    backPage();
   }
 }
 
