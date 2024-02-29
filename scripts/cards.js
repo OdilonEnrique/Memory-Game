@@ -38,6 +38,8 @@ function createCards() {
     "card_23",
     "card_24",
     "card_25",
+    "card_26",
+    "card_27",
   ];
 
   const arrayCardsName = cardNames
