@@ -44,6 +44,7 @@ function createCards() {
     "card_29",
     "card_30",
     "card_31",
+    "card_32",
   ];
 
   const arrayCardsName = cardNames
